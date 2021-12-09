@@ -8,14 +8,8 @@ Using Google's [Cloud Text-to-Speech API](https://cloud.google.com/text-to-speec
 - [More Information](#more-information)
 
 ## What is this API?
-Taken from the hyperlink above:
-> Convert text into natural-sounding speech using an API powered by Google’s AI technologies
->
-> Improve customer interactions with intelligent, lifelike responses
->
-> Engage users with voice user interface in your devices and applications
->
-> Personalize your communication based on user preference of voice and language
+Taken from the first hyperlink above:
+> Google Cloud Text-to-Speech enables developers to synthesize natural-sounding speech with 100+ voices, available in multiple languages and variants. It applies DeepMind’s groundbreaking research in WaveNet and Google’s powerful neural networks to deliver the highest fidelity possible. As an easy-to-use API, you can create lifelike interactions with your users, across many applications and devices.
 
 ## Sample Output
 - [Audio File (Ogg)](https://drive.google.com/file/d/1n-rVE0bfroPKlDv8hPpJWgl4pGurU_wV/view?usp=sharing)
