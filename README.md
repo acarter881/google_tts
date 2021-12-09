@@ -30,7 +30,9 @@ Using Google's [Cloud Text-to-Speech API](https://cloud.google.com/text-to-speec
   <p><s>This is sentence one.</s><s>This is sentence two.</s></p>
 </speak>
 ```
-5. Can I get a custom voice? 
+5. Should I use a standard voice or a WaveNet voice?
+- I prefer to use a WaveNet voice. You can read about the differences [here](https://cloud.google.com/text-to-speech/docs/wavenet).
+6. Can I get a custom voice? 
 - Yes, there is a [Custom Voice program](https://cloud.google.com/text-to-speech/custom-voice/docs) (beta)
 
 ## Sample Output
