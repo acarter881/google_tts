@@ -9,7 +9,6 @@ Using Google's [Cloud Text-to-Speech API](https://cloud.google.com/text-to-speec
 
 ## FAQ
 1. What is this API?
-Taken from the first hyperlink above:
 > Google Cloud Text-to-Speech enables developers to synthesize natural-sounding speech with 100+ voices, available in multiple languages and variants. It applies DeepMind’s groundbreaking research in WaveNet and Google’s powerful neural networks to deliver the highest fidelity possible. As an easy-to-use API, you can create lifelike interactions with your users, across many applications and devices.
 2. Does the API cost money to use?
 - Please reference [this link](https://cloud.google.com/text-to-speech/pricing)
